@@ -6,10 +6,12 @@ I have a wide range of interests and am excited about the possibility of using a
 
 #### Programming Languages and Libraries/Packages
 
-    • Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly, Altair)
-    • R (Tidyverse)
+• Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly, Altair)
+
+• R (Tidyverse)
 
 #### Software/Misc.
 
-    • Jupyter Notebook, Conda, RStudio, PyCharm
-    • LaTeX
+• Jupyter Notebook, Conda, RStudio, PyCharm
+
+• LaTeX
